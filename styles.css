@@ -6,10 +6,10 @@ body {
     color: blanchedalmond;
 }
 .center {
-    margin: 10px;
+    margin: 4px;
     width: 25%;
     height: 25%;
-    line-height: 115px;
+    line-height: 125px;
     text-align: center;
     border: 1px solid red;
 }
