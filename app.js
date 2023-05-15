@@ -18,7 +18,7 @@ const reviews = [
         name: "Susan White",
         job: "Knight",
         img: "./Susan.jpg",
-        text: "During the initial phase of the Phyrexian takeover of the plane, Susan and her army were sent on a mission to assist an Auriok and leonin trade settlement called Ten Shields. On her way, she encountered a mutated undead leonin leading her to think about the increasing spread of the Mephidross. When she arrived in Ten Shields, she was puzzled to find the settlement completely deserted. After further investigation though, she and her party realized that they are not alone.",
+        text: "During the initial phase of the Phyrexian takeover of the plane, Susan and her army were sent on a mission to assist an Auriok and leonin trade settlement called Ten Shields. On her way, she encountered a mutated undead leonin leading her to think about the increasing spread of the Mephidross. When she arrived in Ten Shields, she was puzzled to find the settlement completely deserted.",
     },
 ];
 
